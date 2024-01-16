@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\candle7\\source\\repos\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj": {}
+    "C:\\code\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\candle7\\source\\repos\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj": {
+    "C:\\code\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\candle7\\source\\repos\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj",
+        "projectUniqueName": "C:\\code\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj",
         "projectName": "WebPageUnderTheHood",
-        "projectPath": "C:\\Users\\candle7\\source\\repos\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj",
+        "projectPath": "C:\\code\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj",
         "packagesPath": "C:\\Users\\candle7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\candle7\\source\\repos\\WebPageUnderTheHood\\WebPageUnderTheHood\\obj\\",
+        "outputPath": "C:\\code\\WebPageUnderTheHood\\WebPageUnderTheHood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -25,10 +25,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dev.packagemanager.eu.tools.vz-connect.net/nuget/Fleetmatics-QA": {},
-          "https://dev.packagemanager.eu.tools.vz-connect.net/nuget/Fleetmatics-Trunk": {},
           "https://dev.packagemanager.eu.tools.vz-connect.net/nuget/Fleetmatics-trunk/v3/index.json": {}
         },
         "frameworks": {

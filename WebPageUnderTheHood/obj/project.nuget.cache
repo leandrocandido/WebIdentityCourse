@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ahkGoHsOQCWGJnU8PoXqGXzmYTuoumlhVp9xxpqZk/4j/V5n3gc+xF/+CxzxK9ANnhfN9/iqedPDzzBsIy56gw==",
+  "dgSpecHash": "c2hsbXsWOKdWc2XHvSh1jPybudZJNIK9S1cXtuVQ5wvOxdjfbZD4EsfgCEbmyDzqfqei8cX/tnKiHNDYVN/Kmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\candle7\\source\\repos\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj",
+  "projectFilePath": "C:\\code\\WebPageUnderTheHood\\WebPageUnderTheHood\\WebPageUnderTheHood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\candle7\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\candle7\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
